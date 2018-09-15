@@ -14,5 +14,6 @@
 11. **ctrl+alt+f7** - atgriezties atpakaļ grafiskajā saskarnē.
 12. **uname -a** - uzzināt Linux versiju.
 13. **firefox &** - atvērt Internet tīklu.
-:joy::ok_hand:
+
+     :joy::ok_hand:
  
