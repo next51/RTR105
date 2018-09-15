@@ -13,5 +13,5 @@
 **uname -a** - uzzināt Linux versiju
 **firefox &** - atvert Internet tīklu
  :joy:
- *test 
- *test
+ *test*
+ *test*
