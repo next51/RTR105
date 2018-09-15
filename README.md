@@ -12,4 +12,6 @@
 **ctrl+alt+f7** vai konanda exit - atgriesties darba vide
 **uname -a** - uzzināt Linux versiju
 **firefox &** - atvert Internet tīklu
- :joy: :joy: :joy:
+ :joy:
+ *test 
+ *test
