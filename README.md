@@ -1,8 +1,8 @@
 # RTR105
 ### datormacības elektroniskā klade
 ## Komandas, kurus uzzunāju 2. nodarbībā:
-**whoami** - uzzināt kas es esmu
-**who** - uzzināt kas ir blakus mani
+1. **whoami** - uzzināt kas es esmu
+2. **who** - uzzināt kas ir blakus mani
 **pwd** - uzzināt manu atrašanas vietu sistēmā
 **ls**- 
 **ctrl+alt+T** - darbas vide
