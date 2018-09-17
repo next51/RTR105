@@ -16,4 +16,7 @@
 13. **firefox &** - atvērt Internet tīklu.
 
      :joy::ok_hand:
- 
+     
+## Komandas, kurus uzzunāju 3. nodarbībā:
+1. **cd "direktorijas nosaukums"** - pārvietoties uz citu direktoriju
+2. **
