@@ -1,0 +1,137 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  ls -l
+    5  cd Music
+    6  pwd
+    7  ls
+    8  ls -a
+    9  ls -la
+   10  pwd
+   11  cd .
+   12  pwd
+   13  cd ..
+   14  pwd
+   15  ls -la
+   16  cd .
+   17  pwd
+   18  cd ..
+   19  pwd
+   20  ls -la
+   21  cd ..
+   22  pwd
+   23  ls -la
+   24  cd ..
+   25  cd home
+   26  pwd
+   27  cd /home
+   28  cd /home/user/
+   29  pwd
+   30  cd /
+   31  pwd
+   32  ls -la
+   33  pwd
+   34  cd
+   35  pwd
+   36  mkdir ManaMape
+   37  ls -l
+   38  cd ManaMape/
+   39  pwd
+   40  ls
+   41  ls -la
+   42  cd
+   43  wpd
+   44  cd
+   45  pwd
+   46  rmdir ManaMape/
+   47  ls -l
+   48  mkdir ManaMape/
+   49  ls -l
+   50  pwd
+   51  cd ManaMape
+   52  cd ManaApakshMape
+   53  pwd
+   54  /dir
+   55  ls -la
+   56  ls -l
+   57  cd
+   58  pwd
+   59  man rmdir
+   60  ls -la
+   61  rm
+   62  r
+   63  ls -l
+   64  rm ManaMape/
+   65  rmdir 
+   66  rmdir ManaMape/
+   67  ls -l
+   68  man echo
+   69  echo "teksts"
+   70  echo "wuzzup"
+   71  echo "teksts"
+   72  echo "teksts
+yo
+q
+gg
+"
+   73  man echo
+   74  echo -e "Teksts\nTeksts\nTeksts"
+   75  echo "Teksts > fails1.txd
+"
+   76  ls -l
+   77  echo "teksts
+"
+   78  echo "Teksts" > fails.txd
+   79  ls -l
+   80  cat fails.txd
+   81  ls 
+   82  cat fails.txd
+   83* 
+   84  ls-l
+   85  ls -l
+   86  cat fails.txd
+   87  echo "Teksts" > fails.txd
+   88* 
+   89  echo "Teksts" >> fails.txd
+   90  cat fails.txd
+   91  ls -l
+   92  uname -a
+   93  nano fails.txd
+   94  ls -l
+   95  chmod 540 fails.txd
+   96  ls -l
+   97  echo "teksts" > fails.txd
+   98  nano fails.txd
+   99  ls -l
+  100  echo "teksts" > ../fails.txd
+  101  ls -l
+  102  cp fails.txd fails101.txd
+  103  ls -l
+  104  mv *1*.txd Music/
+  105  ls -l
+  106  cd /music
+  107  cd music/
+  108  cd Music/
+  109  pwd
+  110  ls-l
+  111  ls -l
+  112  mv fails101.txd ../fails102.txd
+  113  ls -l
+  114  cd
+  115  ls -l
+  116  mv fails102.txd fails103.txd
+  117  ls -l
+  118  replace fails103.txd
+  119  ls Music
+  120  ls Music/
+  121  ls -la Music/
+  122  pwd
+  123  rm Music/fails101.txd
+  124  cd
+  125  pwd
+  126  rm fails*.txd
+  127  ls -l
+  128  rm fails.txd2
+  129  ls -l
+  130  history
+  131  history > history_20180917.txd
