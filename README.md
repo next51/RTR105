@@ -17,6 +17,13 @@
 
      :joy::ok_hand:
      
-## Komandas, kurus uzzunāju 3. nodarbībā:
+## 3. nodarbības komandas
 1. **cd "direktorijas nosaukums"** - pārvietoties uz citu direktoriju
-2. **
+2. **.**
+3. ..
+4. /
+5. ~
+6. echo
+7. mkdir
+8. rmdir
+9. rm
