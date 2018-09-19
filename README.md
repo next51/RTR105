@@ -18,12 +18,15 @@
      :joy::ok_hand:
      
 ## 3. nodarbības komandas
-1. **cd "direktorijas nosaukums"** - pārvietoties uz citu direktoriju
-2. **.**
-3. ..
-4. /
-5. ~
-6. echo
-7. mkdir
-8. rmdir
-9. rm
+1. **cd "direktorijas nosaukums"** - pārvietoties uz citu direktoriju.
+2. **.** - pašreizējā darba mape.
+3. **..** - pašreizējas darba mapes vecākmape.
+4. **/** - failsistēmas sakne.
+5. **~** - pašreizējā lietotāja mājas mape.
+6. **echo** - attēlo komandrindā uzrakstītu tekstu
+7. **echo "TEXT" >> file.txd** - pārveidot tekstu faila.
+7. **mkdir** - izveido jaunas mapes.
+8. **rmdir** - nodzēst mapes.
+9. **rm** - džes failus un mapes.
+10. **mv** - pārvieto datnes un mapes.
+11. **man** - sniedz informāciju par citām komandām.
