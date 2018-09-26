@@ -30,3 +30,14 @@
 9. **rm** - džes failus un mapes.
 10. **mv** - pārvieto datnes un mapes.
 11. **man** - sniedz informāciju par citām komandām.
+
+##4.nodarbības komandas
+1. **mans_skripts.sh** -
+2. **echo $PATH** - sistēmas mainīga,
+3. ** ./mans_skripts.sh** -
+4. ** /home/user/mans_skripts.sh** -
+5. **~/mans_skripts.sh** - 
+5. **cat mans_skripts.sh** -  
+6. **cat/bin/ls** - 
+8. **PATH=$PATH:/home/user** -
+9. **chmod 764 mans_skripts.sh** - 
