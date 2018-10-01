@@ -33,7 +33,7 @@
 
 ##4.nodarbības komandas
 1. **mans_skripts.sh** -
-2. **echo $PATH** - sistēmas mainīga,
+2. **echo $PATH** - sistēmas mainīga
 3. **./mans_skripts.sh** -
 4. **/home/user/mans_skripts.sh** -
 5. **~/mans_skripts.sh** - 
