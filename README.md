@@ -1,6 +1,6 @@
 # RTR105
 ### datormacības elektroniskā klade
-## Komandas, kurus uzzunāju 2. nodarbībā:
+### 2. nodarbības komandas
 1. **whoami** - uzzināt kas es esmu.
 2. **who** - uzzināt kas ir blakus mani.
 3. **pwd** - uzzināt manu atrašanas vietu sistēmā.
@@ -17,7 +17,7 @@
 
      :joy::ok_hand:
      
-## 3. nodarbības komandas
+### 3. nodarbības komandas
 1. **cd "direktorijas nosaukums"** - pārvietoties uz citu direktoriju.
 2. **.** - pašreizējā darba mape.
 3. **..** - pašreizējas darba mapes vecākmape.
@@ -31,13 +31,12 @@
 10. **mv** - pārvieto datnes un mapes.
 11. **man** - sniedz informāciju par citām komandām.
 
-##4.nodarbības komandas
-1. **mans_skripts.sh** -
-2. **echo $PATH** - sistēmas mainīga
-3. **./mans_skripts.sh** -
-4. **/home/user/mans_skripts.sh** -
-5. **~/mans_skripts.sh** - 
-5. **cat mans_skripts.sh** -  
-6. **cat/bin/ls** - 
-8. **PATH=$PATH:/home/user** -
-9. **chmod 764 mans_skripts.sh** - 
+### 4.nodarbības komandas
+1. **mans_skripts.sh** - izpildīt uzdoto skriptu.
+2. **echo $PATH** - sistēmas mainīga, ar kuru var manīt ceļu līdz failam.
+3. **./mans_skripts.sh** - ieiet skriptā.
+4. **/home/user/mans_skripts.sh** - ieiet skriptā.
+5. **~/mans_skripts.sh** - ieiet skriptā.
+5. **cat mans_skripts.sh** - lasīt skripta satūru.
+6. **cat/bin/ls** - izlasīt direktorijas satūru.
+7. **chmod 764 mans_skripts.sh** - izmainīt tiesības skriptam, lai tas varētu strādāt.
