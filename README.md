@@ -42,8 +42,8 @@
 7. **chmod 764 mans_skripts.sh** - izmainīt tiesības skriptam, lai tas varētu strādāt.
 
 ### 5.nodarbības svarīga informācija
-1. idle & - parslēgties uz "idle" vidi.
-2. python - parslēgties uz "python" vidi.
-3. ipython - parslēgties uz "ipython" vidi.
-4. "TAB" - var noskatities iespējamas komandas.
-5. "git clone https://github.com/next51/RTR105" - ieiet sava repositarijā.
+1. **idle &** - parslēgties uz "idle" vidi.
+2. **python** - parslēgties uz "python" vidi.
+3. **ipython** - parslēgties uz "ipython" vidi.
+4. **"TAB"** - var noskatities iespējamas komandas.
+5. **git clone https://github.com/next51/RTR105** - ieiet sava repositarijā.
