@@ -1,6 +1,6 @@
 # RTR105
 ### datormacības elektroniskā klade
-### 2. nodarbības komandas
+### 2.nodarbības komandas
 1. **whoami** - uzzināt kas es esmu.
 2. **who** - uzzināt kas ir blakus mani.
 3. **pwd** - uzzināt manu atrašanas vietu sistēmā.
@@ -17,7 +17,7 @@
 
      :joy::ok_hand:
      
-### 3. nodarbības komandas
+### 3.nodarbības komandas
 1. **cd "direktorijas nosaukums"** - pārvietoties uz citu direktoriju.
 2. **.** - pašreizējā darba mape.
 3. **..** - pašreizējas darba mapes vecākmape.
