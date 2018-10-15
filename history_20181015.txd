@@ -1,0 +1,27 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  ls -l
+    5  git.clone https://github.com/next51/RTR105
+    6  git clone https://github.com/next51/RTR105
+    7  ls -l
+    8  cd RTR105
+    9  python
+   10  idle &
+   11  pwd
+   12  ls -l
+   13  echo drg_yyyymmdd.py
+   14  echo 'file'> dgr_yyyymmdd.py
+   15  ls -l
+   16  cd dgr_yyyymmdd.py
+   17  cat dgr_yyymmdd.py
+   18  nano dgr_yyyymmdd.py
+   19  ls -l
+   20  history
+   21  ./git-upload yyyymmdd_hh_mm
+   22  cat dgr_yyyymmd.py
+   23  history
+   24  ls -l
+   25  cat dgr_yyyymmdd.py
+   26  history
+   27  history > history_20181015.txd
