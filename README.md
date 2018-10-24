@@ -47,3 +47,31 @@
 3. **ipython** - parslēgties uz "ipython" vidi.
 4. **"TAB"** - var noskatities iespējamas komandas.
 5. **git clone https://github.com/next51/RTR105** - ieiet sava repositarijā.
+
+### 7.nodarbības svarīga informācija
+1.
+2.
+3.
+4.
+5.
+
+### 8. nodarbības svarīga informācija
+1.
+2.
+3.
+4.
+5.
+
+### 9. nodarbības svarīga informācija
+1.
+2.
+3.
+4.
+5.
+
+### 10. nodarbības svarīga informācija
+1.
+2.
+3.
+4.
+5.
