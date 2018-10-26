@@ -48,28 +48,28 @@
 4. **"TAB"** - var noskatities iespējamas komandas.
 5. **git clone https://github.com/next51/RTR105** - ieiet sava repositarijā.
 
-### 7.nodarbības svarīga informācija
+### 7.nodarbība: Variables, expressions and statements.
 1.
 2.
 3.
 4.
 5.
 
-### 8. nodarbības svarīga informācija
+### 8. nodarbība: Conditional Execution.
 1.
 2.
 3.
 4.
 5.
 
-### 9. nodarbības svarīga informācija
+### 9. nodarbība: Functions.
 1.
 2.
 3.
 4.
 5.
 
-### 10. nodarbības svarīga informācija
+### 10. nodarbība: Loops and Iterations.
 1.
 2.
 3.
