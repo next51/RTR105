@@ -49,14 +49,15 @@
 5. **git clone https://github.com/next51/RTR105** - ieiet sava repositarijā.
 
 ### 7.nodarbība: Variables, expressions and statements.
-1. print() - attēlot tekstu komandrindā.
-2. x = .. ; y = .., z = .. - uzdot mainīgus.
-3. type() - uzzināt kādai funkcijai pieder simbols.
-4. mes varam izmantot int() and float() lai invertēt int to str / str to int 
-5. mes varam izmantot input, lai uzdot lietotajam jautajumu.
-name=input('Who are you?')
-print('Welcome',name)
-
+1. **_print()_** - attēlot tekstu komandrindā.
+2. **_x = .. ; y = .., z = .._** - uzdot mainīgus.
+3. **_type()_** - uzzināt kādai funkcijai pieder simbols.
+4. mes varam izmantot **_int()_** and **_float()_** lai invertēt **int** to **str** / **str** to **int** 
+5. mes varam izmantot **_input()_**, lai uzdot lietotajam jautajumu.Piemeram:
+~~~
+ name=input('Who are you?')
+ print('Welcome',name)
+~~~
 ### 8. nodarbība: Conditional Execution.
 1.
 2.
