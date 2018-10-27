@@ -59,11 +59,18 @@
  print('Welcome',name)
 ~~~
 ### 8. nodarbība: Conditional Execution.
-1.
-2.
-3.
-4.
-5.
+1. **_if_** - uzdot nosacījumu.
+2. **If you mix _tabs_ and _spaces_, you may get _“indentation errors”_ even if everything looks fine**
+3. **_if_** .. **_else_** - mes varam vienlaicīgi uzdot divus nosacījumus.
+   ~~~
+   x = 4
+   if x > 2:
+      print('Bigger than two')
+   else:
+      print('Smaller than two')
+   ~~~
+4. **_if_** ; **_elif_** ; **_else_** - izmantojam tādu konstrukciju,lai uzdot 3 vai vairākus nosācijumus.
+5. **==** - vienāds ar ;   **!=** - nav vienāds ar ;   **<=** - mazāks vai vienāds ar ;   **=>** - lielāks vai vienāds ar 
 
 ### 9. nodarbība: Functions.
 1.
