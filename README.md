@@ -109,5 +109,8 @@ n
 5. **[0:4]** - apskatīt, kas atrodas starp 0 un 4 (neieskaitot) elementiem.
 6. **_'n' in string_** - uzzināt vai rindā ir burts 'n'.
 7. **_.lower_** - uzrakstīt visu rindu ar maziem burtiem.
-8. **_.upper_** - uzrkatīt visu rindu ar lieliem burtiem.
+8. **_.upper_** - uzrakstīt visu rindu ar lieliem burtiem.
 9. **_.find('n')_** - uzzināt kāda pozīcija atrodas burts 'n'. Jā tada nav, tad rezultāts būs -1.
+10. **_.replace('Bob''Jane')_** - izmainīt rindā vārdu 'Bob' uz 'Jane'.
+11. **_.lstrip/rstrip/strip_** - nodzēst atstarpes kreisajā / labajā / abas pusēs.
+12. **_startswith('n')/endswith('n')_** - pāŗbaudit vai rinda sākas / beidzas ar burtu 'n'.
