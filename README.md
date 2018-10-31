@@ -106,7 +106,7 @@ n
 >>> print(len(fruit))
 6
 ~~~
-5. **[0:4]** - apskatīt, kas atrodas starp 0 un 4 (neieskaitot) elementiem.
+5. **_[0:4]_** - apskatīt, kas atrodas starp 0 un 4 (neieskaitot) elementiem.
 6. **_'n' in string_** - uzzināt vai rindā ir burts 'n'.
 7. **_.lower_** - uzrakstīt visu rindu ar maziem burtiem.
 8. **_.upper_** - uzrakstīt visu rindu ar lieliem burtiem.
