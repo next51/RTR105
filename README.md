@@ -99,15 +99,15 @@ a
 >>> print(w)
 n
 ~~~
-3. **__Jāatcerās, ka simbolu rinda sākas no 0._** (0 1 2 3 4 5 6...)
+3. **_Jāatcerās, ka simbolu rinda sākas no 0_** (0 1 2 3 4 5 6...)
 4. **_lem_** - uzzināt cik simboli ir vienā rindā:
 ~~~
 >>> fruit = 'banana'
 >>> print(len(fruit))
 6
 ~~~
-5. **_[0:4]_** - apskatīt, kas atrodas starp 0 un 4 (neieskaitot) elementiem.
-6 **_'n' in string_** - uzzināt vai rindā ir burts 'n'.
-7 **_.lower_** - uzrakstīt visu rindu ar maziem burtiem.
-8 **_.upper_** - uzrkatīt visu rindu ar lieliem burtiem.
+5. **[0:4]** - apskatīt, kas atrodas starp 0 un 4 (neieskaitot) elementiem.
+6. **_'n' in string_** - uzzināt vai rindā ir burts 'n'.
+7. **_.lower_** - uzrakstīt visu rindu ar maziem burtiem.
+8. **_.upper_** - uzrkatīt visu rindu ar lieliem burtiem.
 9. **_.find('n')_** - uzzināt kāda pozīcija atrodas burts 'n'. Jā tada nav, tad rezultāts būs -1.
