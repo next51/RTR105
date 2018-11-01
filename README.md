@@ -80,12 +80,35 @@
 5.
 
 ### 10. nodarbība: Loops and Iterations.
-1.
-2.
-3.
-4.
-5.
-
+1. Pythona ir divu veidu funkcijas - **_built-in funkcijas_** (piem., print(), input(), type(), float(), int() ) un funkcijas, kuru definējam **_mēs_** un pēc tam izmantojam.
+2. Lai apzīmet savu funkciju izmanto **'def'**
+3. Mēs varam uzdot savai funkcijai parametrus. Piemēram:
+~~~
+>>> def greet(lang):
+... if lang == 'es':
+... print('Hola')
+... elif lang == 'fr':
+... print('Bonjour')
+... else:
+... print('Hello')
+...
+>>> greet('en')
+Hello
+>>> greet('es')
+Hola
+>>> greet('fr')
+Bonjour 
+~~~
+4. **_return_** - izmanto, lai dabūt fankcijas rezultātu.
+5. Funkcijai var uzdot vairākus argumentus. Piemerām:
+~~~
+def addtwo(a, b):
+ added = a + b
+ return added
+x = addtwo(3, 5)
+print(x)
+8
+~~~
 ### 11. nodarbība: Strings.
 1. **_str = '..'_** - izmanto, lai uzrakstīt virkni
 2. Mēs var uzzināt jebkuru simbolu rindā, izmantojot **_[]_** Piemierām:
