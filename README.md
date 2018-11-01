@@ -72,14 +72,7 @@
 4. **_if_** ; **_elif_** ; **_else_** - izmantojam tādu konstrukciju,lai uzdot 3 vai vairākus nosācijumus.
 5. **==** - vienāds ar ;   **!=** - nav vienāds ar ;   **<=** - mazāks vai vienāds ar ;   **=>** - lielāks vai vienāds ar 
 
-### 9. nodarbība: Functions.
-1.
-2.
-3.
-4.
-5.
-
-### 10. nodarbība: Loops and Iterations.
+### 9. nodarbība: Loops and Iterations.
 1. Pythona ir divu veidu funkcijas - **_built-in funkcijas_** (piem., print(), input(), type(), float(), int() ) un funkcijas, kuru definējam **_mēs_** un pēc tam izmantojam.
 2. Lai apzīmet savu funkciju izmanto **'def'**
 3. Mēs varam uzdot savai funkcijai parametrus. Piemēram:
@@ -109,6 +102,14 @@ x = addtwo(3, 5)
 print(x)
 8
 ~~~
+
+### 10. nadarbība: Loops and Iteration
+1. 
+2. 
+3. 
+4. 
+5. 
+
 ### 11. nodarbība: Strings.
 1. **_str = '..'_** - izmanto, lai uzrakstīt virkni
 2. Mēs var uzzināt jebkuru simbolu rindā, izmantojot **_[]_** Piemierām:
