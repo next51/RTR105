@@ -104,11 +104,31 @@ print(x)
 ~~~
 
 ### 10. nadarbība: Loops and Iteration
-1. 
-2. 
-3. 
-4. 
-5. 
+1. Lai izveidot ciklu vajag izmantot komandu 'while' un pēc tam uzdot nosacījumu.Piemēram:
+~~~
+n = 5
+while n > 0 :
+ print(n)
+ n = n – 1
+print('Blastoff!')
+print(n)
+~~~
+2. Lai partraukt ciklu jāizmanto komandu **_'break'_**.
+3. Lai uzrakstīt vienkaršu cklu var izmantot komandu **_'for'_**.
+~~~
+for i in [5, 4, 3, 2, 1] :
+ print(i)
+print('Blastoff!')
+~~~
+4. Cikla argumentus var summet.
+~~~
+zork = 0
+print('Before', zork)
+for thing in [9, 41, 12, 3, 74, 15] :
+ zork = zork + 1
+ print(zork, thing)
+print('After', zork)
+~~~
 
 ### 11. nodarbība: Strings.
 1. **_str = '..'_** - izmanto, lai uzrakstīt virkni
