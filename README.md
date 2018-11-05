@@ -158,3 +158,4 @@ n
 10. **_.replace('Bob''Jane')_** - izmainīt rindā vārdu 'Bob' uz 'Jane'.
 11. **_.lstrip/rstrip/strip_** - nodzēst atstarpes kreisajā / labajā / abas pusēs.
 12. **_startswith('n')/endswith('n')_** - pāŗbaudit vai rinda sākas / beidzas ar burtu 'n'.
+ 
