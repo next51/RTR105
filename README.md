@@ -159,3 +159,5 @@ n
 11. **_.lstrip/rstrip/strip_** - nodzēst atstarpes kreisajā / labajā / abas pusēs.
 12. **_startswith('n')/endswith('n')_** - pāŗbaudit vai rinda sākas / beidzas ar burtu 'n'.
  
+### 13.nodarbība: Files
+1. Lai atvērt faiu, jāizmanto šadu formu: **_fhand = open ('faila_nosaukums.txt')_**
