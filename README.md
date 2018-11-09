@@ -160,4 +160,35 @@ n
 12. **_startswith('n')/endswith('n')_** - pāŗbaudit vai rinda sākas / beidzas ar burtu 'n'.
  
 ### 13.nodarbība: Files
-1. Lai atvērt faiu, jāizmanto šadu formu: **_fhand = open ('faila_nosaukums.txt')_**
+1. Izmantojot "idle" or "ipython" vidi, mes varam izlasit faila saturu, kas atrodas mūsu failu sistēmā.
+2. Lai to izdarīt vispirms jāiet failā izmantojot komandu **_open()_** Piemēram:
+~~~~
+>>> fhand = open('mbox.txt')
+>>> print(fhand)
+<io.TextIOWrapper name='mbox.txt' mode='r' encoding='UTF-8'>
+~~~
+3. Tagad, kad mēs ienācam faila, mēs varam to izlasīt izmantojot read Piemēram:
+~~~
+>>> fhand = open('mbox-short.txt')
+>>> inp = fhand.read()
+>>> print(len(inp))
+94626
+>>> print(inp[:20])
+From stephen.marqua
+~~~
+4.Mēs varam lasīt konkrētas rindas, lai to izdarīt jāizmanto ciklu:
+~~~
+fhand = open('mbox-short.txt')
+for line in fhand:
+ if line.startswith('From:') :
+ print(line)
+ ~~~
+ 5. Mēs varam izlasīt jebkuru tekata daļu, izmanotojot **_in line_**:
+ ~~~
+ fhand = open('mbox-short.txt')
+for line in fhand:
+ line = line.rstrip()
+ if not '@uct.ac.za' in line :
+ continue
+ print(line)
+ ~~~
