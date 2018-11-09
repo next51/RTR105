@@ -162,12 +162,12 @@ n
 ### 13.nodarbība: Files
 1. Izmantojot "idle" or "ipython" vidi, mes varam izlasit faila saturu, kas atrodas mūsu failu sistēmā.
 2. Lai to izdarīt vispirms jāiet failā izmantojot komandu **_open()_** Piemēram:
-~~~~
+~~~
 >>> fhand = open('mbox.txt')
 >>> print(fhand)
 <io.TextIOWrapper name='mbox.txt' mode='r' encoding='UTF-8'>
 ~~~
-3. Tagad, kad mēs ienācam faila, mēs varam to izlasīt izmantojot read Piemēram:
+3. Tagad, kad mēs ienācam faila, mēs varam to izlasīt izmantojot **_read_** Piemēram:
 ~~~
 >>> fhand = open('mbox-short.txt')
 >>> inp = fhand.read()
